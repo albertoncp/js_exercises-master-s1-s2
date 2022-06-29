@@ -1,0 +1,1 @@
+const getGhibliMovies = async () =>
